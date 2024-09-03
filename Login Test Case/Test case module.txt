@@ -1,0 +1,2 @@
+SL,Module, Type of Testing, Features, Test Cases, expected result,  Actual Result, Test Data, Reproducing
+Steps,  Bugs Screen Shot , Dev Comments,  Final Status, Remarks
